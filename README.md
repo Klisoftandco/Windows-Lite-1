@@ -17,7 +17,7 @@ A Lite version of windows for everyone
 
  DOWNLOAD LINK :
 
- https://file.kiwi/5f629cdb#DIkhSqwGunBxBi555DkWug
+
 
 IN DEV :
 
