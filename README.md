@@ -12,6 +12,8 @@ A Lite version of windows for everyone
  a compatible 64-bit processor 
  
  64 GB or more
+
+ A 64 bits computer
  
  and that's all you need ;)
 
