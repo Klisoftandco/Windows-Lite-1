@@ -2,6 +2,7 @@
 A Lite version of windows for everyone
 
 👉Standard Edition 1.0
+ 
  Minimum computer requirements:
 
  1 gigahertz (GHz) or faster  
@@ -13,6 +14,10 @@ A Lite version of windows for everyone
  64 GB or more
  
  and that's all you need ;)
+
+ DOWNLOAD LINK :
+
+ https://file.kiwi/5f629cdb#DIkhSqwGunBxBi555DkWug
 
 IN DEV :
 
