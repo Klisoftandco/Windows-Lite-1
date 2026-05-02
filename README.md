@@ -17,7 +17,7 @@ A Lite version of windows for everyone
 
  DOWNLOAD LINK :
 
-
+https://mega.nz/file/e05FASrQ#SwK-8bVfJjyrdXNs7Iff7p9ZQLZXIz7Zl_-dZvpMbcM
 
 IN DEV :
 
